@@ -1,6 +1,7 @@
 # 2-Essential-Data-Science
 hello hello hello
 # About Myself
+นาย ศตายุ เตโช
 ---
 ## Create python environment 
 `python3 -m venv .venv` - Create the new python environment named `.venv`
